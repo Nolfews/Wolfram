@@ -1,0 +1,10 @@
+resolver: lts-23.3
+
+packages:
+  - wolframFolder
+
+extra-deps: []
+
+flags: {}
+
+extra-package-dbs: []
